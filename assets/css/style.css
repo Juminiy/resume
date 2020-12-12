@@ -9,7 +9,7 @@
  *	6. Section
  *	7. About
  * 	8. Personal Info
- *	9. Servics
+ *	9. Services
  *	10. The Process
  *	11. Testimonials
  *	12. Clients
@@ -474,7 +474,7 @@ a.linkedin:hover{
     visibility: hidden;
     z-index: -1;
     overflow: hidden;
-	background: url(../img/bg/bg.jpg) top center no-repeat fixed;
+	background: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/bg/bg.jpg) top center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -ms-background-size: cover;
@@ -533,7 +533,7 @@ a.linkedin:hover{
     /*background-position-x: -500px !important;*/
     background-size: cover !important;
     position: relative;
-	background-image: url(../img/me/5.jpg);
+	background-image: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/me/5.jpg);
 	background-size: 50% auto !important;
 	overflow: hidden;
 	display: table;
@@ -1032,7 +1032,7 @@ a.linkedin:hover{
 */
 
 .section.testimonials{
-	background-image: url(../img/testimonials_bg.jpg);
+	background-image: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/testimonials_bg.jpg);
     background-repeat: no-repeat !important;
     background-size: cover !important;
     position: relative;
@@ -1679,27 +1679,27 @@ a.linkedin:hover{
 }
 
 .blog_posts .post .bg_image.image1{
-	background-image: url(../img/blog/1.jpg);
+	background-image: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/blog/1.jpg);
 }
 
 .blog_posts .post .bg_image.image2{
-	background-image: url(../img/blog/2.jpg);
+	background-image: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/blog/2.jpg);
 }
 
 .blog_posts .post .bg_image.image3{
-	background-image: url(../img/blog/3.jpg);
+	background-image: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/blog/3.jpg);
 }
 
 .blog_posts .post .bg_image.image4{
-	background-image: url(../img/blog/4.jpg);
+	background-image: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/blog/4.jpg);
 }
 
 .blog_posts .post .bg_image.image5{
-	background-image: url(../img/blog/5.jpg);
+	background-image: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/blog/5.jpg);
 }
 
 .blog_posts .post .bg_image.image6{
-	background-image: url(../img/blog/6.jpg);
+	background-image: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/blog/6.jpg);
 }
 
 .blog_posts .post .category{
@@ -1859,27 +1859,27 @@ a.linkedin:hover{
 }
 
 .blog_post .media.image .image.image1{
-	background-image: url(../img/blog/1.jpg);
+	background-image: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/blog/1.jpg);
 }
 
 .blog_post .media.image .image.image2{
-	background-image: url(../img/blog/2.jpg);
+	background-image: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/blog/2.jpg);
 }
 
 .blog_post .media.image .image.image3{
-	background-image: url(../img/blog/3.jpg);
+	background-image: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/blog/3.jpg);
 }
 
 .blog_post .media.image .image.image4{
-	background-image: url(../img/blog/4.jpg);
+	background-image: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/blog/4.jpg);
 }
 
 .blog_post .media.image .image.image5{
-	background-image: url(../img/blog/5.jpg);
+	background-image: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/blog/5.jpg);
 }
 
 .blog_post .media.image .image.image6{
-	background-image: url(../img/blog/6.jpg);
+	background-image: url(https://juminiyrepo.oss-cn-beijing.aliyuncs.com/img/blog/6.jpg);
 }
 
 .blog_post .media.image .overlay .category,
